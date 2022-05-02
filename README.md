@@ -23,7 +23,7 @@
     - 위를 통해 예측한 값을 `질량중심을 이용`해 신규 가맹점의 입지를 선정함
         
         즉, 정규화된 인구밀도, 1인가구, 지하철의 거리를 이용해 2차원의 평면에서의 세 수치의 중심을 구함(2차원 평면에서의 질량중심의 공식을 이용 
-        $(\frac{\sum_am_ax_a}{\sum_am_a},\frac{\sum_am_ay_a}{\sum_am_a})$)
+        $ (\frac{\sum_am_ax_a}{\sum_am_a},\frac{\sum_am_ay_a}{\sum_am_a}) $)
     - 예측한 새로운 지점의 위치
         ![result](./image/result.PNG)   
 
